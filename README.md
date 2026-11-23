@@ -1,5 +1,5 @@
-# product-factory
-The 99x version of the software product engineering factory
+# Automated Quality Gates for Governing IDF Artifacts
+The IDF runs the AI-DLC process in a project. The next Gen IDF is an integrated quality system that brings automated quality drift monitoring to any AI-Native delivery process.
 
 ## Start here
 
